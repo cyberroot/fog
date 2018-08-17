@@ -46,7 +46,7 @@ Gem::Specification.new do |s|
 
   s.add_dependency("fog-core", "~> 1.45")
   s.add_dependency("fog-json")
-  s.add_dependency("fog-xml", "~> 0.1.1")
+  #s.add_dependency("fog-xml", "~> 0.1.1")
   
   # JSON locked for Ruby 1.9, remove once deprecated
   s.add_dependency("json", ">= 1.8", "< 2.0")
