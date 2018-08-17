@@ -57,7 +57,6 @@ Gem::Specification.new do |s|
   s.add_dependency("fog-atmos")
   s.add_dependency("fog-aws", ">= 0.6.0")
   s.add_dependency("fog-brightbox", "~> 0.4")
-  s.add_dependency("fog-cloudatcost", "~> 0.1.0")
   s.add_dependency("fog-digitalocean", ">= 0.3.0")
   s.add_dependency("fog-dnsimple", "~> 1.0")
   s.add_dependency("fog-dynect", "~> 0.0.2")
