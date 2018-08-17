@@ -66,7 +66,7 @@ Gem::Specification.new do |s|
   s.add_dependency("fog-internet-archive")
   s.add_dependency("fog-joyent")
   s.add_dependency("fog-local")
-  s.add_dependency("fog-openstack")
+  #s.add_dependency("fog-openstack")
   s.add_dependency("fog-powerdns", ">= 0.1.1")
   s.add_dependency("fog-profitbricks")
   s.add_dependency("fog-rackspace")
